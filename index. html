@@ -5,24 +5,24 @@
     <title>UAS Aplikasi Komputer</title>
 </head>
 <body>
-    <h1>UAS Aplikasi Komputer</h1>
 
-    <p><b>Nama:</b> Vina Fauziah</p>
-    <p><b>NIM:</b> (A0B025016)</p>
+    <h1>Website UAS Aplikasi Komputer</h1>
 
-    <h2>WEBSITE</h2>
-    <p>Analisis Luasan Berdasarkan (JENIS TANAH)</p>
+    <p><strong>Nama:</strong> Vina Fauziah</p>
+    <p><strong>NIM:</strong> A0B025016</p>
+
+    <h2>PIVOT TABLE</h2>
+    <p>Analisis Luasan Berdasarkan Jenis Tanah</p>
 
     <h2>Hasil Pivot Table</h2>
-    <img src=" pivot table. png"width="600">
+    <img src="pivot table.png" width="600">
 
     <h2>Interpretasi</h2>
     <p>
-Berdasarkan hasil Pivot Table, diketahui bahwa luasan wilayah kajian
-didominasi oleh beberapa jenis tanah utama, sementara jenis tanah lainnya
-memiliki luasan yang relatif lebih kecil. Perbedaan luasan ini menunjukkan
-adanya variasi karakteristik tanah yang berpengaruh terhadap potensi
-pemanfaatan lahan di wilayah kajian.
+        Berdasarkan hasil Pivot Table, dapat di lihat bahwa luas lahan pada setiap jenis tanah tidak sama atau berbeda. 
+Beberapa jenis tanah memiliki luas yang lebih besar di bandingkan dengan yang lainnya. Perbedaan ini menunjukkan bahwa
+kondisi tanah di wilayah tersebut bervariasi, sehingga berpengaruh terhadap pemanfaatan lahan.
     </p>
+
 </body>
 </html>
