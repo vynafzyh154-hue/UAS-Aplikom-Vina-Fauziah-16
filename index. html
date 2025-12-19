@@ -14,11 +14,16 @@
     <p>Analisis Luasan Berdasarkan (JENIS TANAH)</p>
 
     <h2>Hasil Pivot Table</h2>
-    <p>(Screenshot pivot table akan ditampilkan di sini)</p>
+    <img src=" pivot table. png"width="600">
 
     <h2>Interpretasi</h2>
     <p>
-        Berdasarkan hasil Pivot Table, diketahui bahwa …
+        Berdasarkan hasil Pivot Table, diketahui bahwa Pada Tabel Jenis tanah memiliki jumlah total luas keseluruhan 96111.22500000000 ha
+dengan komposisi tanah yang beragam. Terdapat 17 jenis tanah dengan luas lahan yang berbeda-beda. Jenis tanah yang dominan yaitu tanah Andosol okrik dengan luas lahan
+20112.00000000000 ha dan tanah Latosol Kromik 18498.00000000000 ha. Kondisi wilayah tersebut di dominasi oleh tanah vulkanik dan tanah hasil pelapukan umumnya memiliki tingkat kesuburan cukup baik, sehingga mendukung aktivitas pertanian.
+Sementara itu, jenis tanah dengan luasan kecil seperti badan air, gawir, dan aluvial distrik hanya terdapat pada sebagian kecil wilayah. Selain itu, adanya pemukiman dan singkapan
+batuan menandakan bahwa tidak seluruh wilayah dimanfaatkan untuk kegiatan pertanian, melainkan juga digunakan untuk fungsi non-pertanian.
+
     </p>
 </body>
 </html>
